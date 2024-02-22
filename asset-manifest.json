@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContextThemeToggler/static/css/main.db383555.css",
+    "main.js": "/ContextThemeToggler/static/js/main.68b10bea.js",
+    "index.html": "/ContextThemeToggler/index.html",
+    "main.db383555.css.map": "/ContextThemeToggler/static/css/main.db383555.css.map",
+    "main.68b10bea.js.map": "/ContextThemeToggler/static/js/main.68b10bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db383555.css",
+    "static/js/main.68b10bea.js"
+  ]
+}
