@@ -14,7 +14,7 @@ export default function Page() {
       <p id="themed-text-container" className={"txt-" + context.theme}>
         lorem ipsum dolor iterit n stuf
       </p>
-      <button className={"btn btn-" + context.theme} id="themed-button">
+      <button className={"btn btn-" + context.theme} id="themed-page">
         Themed Button
       </button>
       <LocalThemedBox />
